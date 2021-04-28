@@ -97,7 +97,7 @@ export default function Contact() {
                             </li>
                             <li>
                               <i className="fas fa-envelope fa-2x orange-text"></i>
-                              <p>contact@mdbootstrap.com</p>
+                              <p>contact@loremimpsum.com</p>
                             </li>
                           </ul>
                         </div>
